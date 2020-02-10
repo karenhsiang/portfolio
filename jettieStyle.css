@@ -1,5 +1,8 @@
 body {
   background-image: url("https://github.com/karenhsiang/portfolio/blob/master/Gradient%20Background.jpg?raw=true");
+  Background-repeat: no repeat; 
+  background-postion: center;
+  background-size: cover;
 }
 
 h1 {
