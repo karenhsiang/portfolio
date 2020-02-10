@@ -1,3 +1,4 @@
+
 body {
   background-image: url("https://github.com/karenhsiang/portfolio/blob/master/Gradient%20Background.jpg?raw=true");
   background-repeat: no-repeat; 
@@ -9,6 +10,6 @@ h1 {
   color: #E52215;
   margin-left: 30px;
   border-color: red;
-  border-width: 20 px;
+  border-width: 20px;
   border-style: dashed;
 }
