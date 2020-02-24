@@ -19,6 +19,7 @@ h1{
   float: left;
   display: block;
   text-align: center;
+  padding: 14px 16px; 
 }
 
 .navbar a:hover{
@@ -26,4 +27,7 @@ h1{
   color:#000000 ;
 }
 
-.navbar a.active 
+.navbar a.active{
+  background-color:#B606F9;
+  color: black;
+}
