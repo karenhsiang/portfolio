@@ -12,8 +12,8 @@ h1{
     
 }
 .navbar{
-  Overflow:hidden; 
-  background color: #D9B2E8 
+  overflow:hidden; 
+  background-color: #D9B2E8 
 } 
 .navbar a{
   float: left;
@@ -29,5 +29,5 @@ h1{
 
 .navbar a.active{
   background-color:#B606F9;
-  color: black;
+  color: Black;
 }
