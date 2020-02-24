@@ -11,3 +11,19 @@ h1{
   color: 44E515;
     
 }
+.navbar{
+  Overflow:hidden; 
+  background color: #D9B2E8 
+} 
+.navbar a{
+  float: left;
+  display: block;
+  text-align: center;
+}
+
+.navbar a:hover{
+  background-color:#FFFFFF; 
+  color:#000000 ;
+}
+
+.navbar a.active 
