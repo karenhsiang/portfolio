@@ -4,9 +4,13 @@ body{
   font-family: 'Duru Sans', sans-serif;
 }
 h1{
-
+Font: purple
   font-size: 40px;
-}
+  Animation-name: H1ain; 
+  Animation-duraation:4s 
+  Ainmation-iteration-count: infinite; 
+} 
+
 .bigheading{
   color: 44E515;
     
